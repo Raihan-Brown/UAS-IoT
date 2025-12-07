@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758650158262",
+    "project_id": "uas-iot-7b202",
+    "storage_bucket": "uas-iot-7b202.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758650158262:android:1ef0aa40812284301ffa17",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeVCwflRM0bWVFL5Kfgg2z9PX0E8rK4pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
